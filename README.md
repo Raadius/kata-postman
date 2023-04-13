@@ -2,7 +2,7 @@
 
 ![2023-04-13_18-15-40](https://user-images.githubusercontent.com/102916416/231806492-8f439155-ba7c-4e77-bae7-149fa6d30361.png)
 
-Логин
+Логин по адресу почты и паролю
 
 ![2023-04-13_18-15-51](https://user-images.githubusercontent.com/102916416/231806645-c1686419-cd6e-46c1-b4e0-525b996f7d3f.png)
 
